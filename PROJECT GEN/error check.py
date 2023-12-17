@@ -1,4 +1,4 @@
-# the error_check 1.5 system  is a very shitty way to check if something is wrong
+# the error_check 1.6 system  is a very shitty way to check if something is wrong
 import time
 import pygame
 # 0 = success 1 = fail
@@ -25,5 +25,5 @@ if errorCHECK != 1 and errorCHECK != 0:
     print("PLEASE WAIT FOR SYSTEM REPAIR UNIT TO RESPOND")
     time.sleep(20)
     print("SYSTEM REPAIR UNIT: expected actual answers instead got ", errorCHECK, " Next time Input 1 or 0. THANK YOU")
-    # I made this entire shit for a goof, so I made a more very nice way of saying Hey dumb ass put an actual answer
+    # I made this entire shit for a goof, so I made a more very nice way of saying Hey dumbass put an actual answer
 # 6A-61-79-20-62-65-61-6E this is nothing :>
