@@ -1,7 +1,6 @@
 # the error_check 1.0 system  is a very shitty way to check if somthing is wrong
 import time
 import pygame
-# the error_check 1.0 system  is a very shitty way to check if somthing is wrong
 # 0 = success 1 = fail
 # THIS IS A SCRIPT
 errorCHECK = int(input('is somthing wrong? For yes type 1, For No type 0:'))
