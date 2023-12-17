@@ -6,6 +6,7 @@ import subprocess
 subprocess.run(['python', 'error check.py'])
 
 
+# THIS IS A SCRIPT
 def generate_iv() -> object:
     # Generate a random IV (16 bytes for AES)
     iv_bytes: bytes = secrets.token_bytes(16)
