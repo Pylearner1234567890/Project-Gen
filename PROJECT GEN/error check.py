@@ -1,9 +1,9 @@
-# the error_check 1.4 system  is a very shitty way to check if somthing is wrong
+# the error_check 1.5 system  is a very shitty way to check if something is wrong
 import time
 import pygame
 # 0 = success 1 = fail
 # THIS IS A SCRIPT
-errorCHECK = int(input('is somthing wrong? For yes type 1, For No type 0:'))
+errorCHECK = int(input('is something wrong? For yes type 1, For No type 0:'))
 if errorCHECK == 1:
     print("1 FOUND SOMETHING IS WRONG")
 if errorCHECK == 0:
