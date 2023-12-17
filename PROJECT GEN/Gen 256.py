@@ -15,6 +15,6 @@ def generate_aes_key() -> object:
 
 random_aes_key: object = generate_aes_key()
 print('Random AES Key:', random_aes_key)
-time.sleep(128)
+time.sleep(45)
 # this is because when I ran this code it only pops up and then immediately closes
 # 6A-61-79-20-62-65-61-6E this is nothing :>
