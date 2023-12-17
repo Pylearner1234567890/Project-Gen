@@ -1,4 +1,4 @@
-# the error_check 1.0 system  is a very shitty way to check if somthing is wrong
+# the error_check 1.2 system  is a very shitty way to check if somthing is wrong
 import time
 import pygame
 # 0 = success 1 = fail
