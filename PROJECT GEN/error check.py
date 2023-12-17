@@ -24,6 +24,6 @@ if errorCHECK != 1 and errorCHECK != 0:
     print("SYSTEM OVERLOAD ANSWERS NOT HELPING.")
     print("PLEASE WAIT FOR SYSTEM REPAIR UNIT TO RESPOND")
     time.sleep(20)
-    print("S.R.U: expected actual answers instead got ", errorCHECK, " Next time Input 1 or 0. THANK YOU")
+    print("SYSTEM REPAIR UNIT: expected actual answers instead got ", errorCHECK, " Next time Input 1 or 0. THANK YOU")
     # I made this entire shit for a goof, so I made a more very nice way of saying Hey dumb ass put an actual answer
 # 6A-61-79-20-62-65-61-6E this is nothing :>
